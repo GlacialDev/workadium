@@ -1,0 +1,7 @@
+/* common for all pages components and features */
+
+@import "common_styles/universal.css";
+@import "common_styles/common.css";
+@import "common_styles/header.css";
+@import "common_styles/sidebar.css";
+@import "common_styles/footer.css";

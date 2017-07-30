@@ -1,0 +1,102 @@
+.footer {
+	background-color: #27273e;
+	font-size: 14px;
+	color: #ffffff;
+}
+
+.footer__author {
+	width: 26.4%;
+    padding-top: 10px;
+    padding-left: 18px;
+    padding-bottom: -7px;
+	float: left;
+}
+
+.footer__text-one {
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.footer__text-two {
+	font-weight: bold;
+}
+
+.footer__logo {
+    padding-top: 14px;
+	text-align: center;
+	width: 47.2%;
+	float: left;
+	margin: 0 auto;
+}
+
+.footer__social {
+	padding-top: 17px;
+	padding-right: 20px;
+	text-align: right;
+	width: 26.4%;
+	float: right;
+	font-weight: bold;
+}
+
+.social-link {
+	padding-right: 30px;
+}
+
+.social-link__link {
+	display: inline-block;
+	text-decoration: none;
+	padding: 0; 
+	margin: 0;
+}
+
+.social-link__item {
+	display: inline-block;
+}
+
+.social-link__icon {
+	background-image: url(../../img/icons/social_sprite.png);
+	background-repeat: no-repeat;
+	width: 25px;
+	height: 30px;
+}
+
+.social-link__icon--vk {
+	background-position: -65px -65px;
+}
+
+
+.social-link__icon--vk:hover {
+	background-position: -95px -5px;
+}
+
+.social-link__icon--fb {
+	background-position: -5px -5px;
+}
+
+.social-link__icon--fb:hover {
+	background-position: -35px -5px;
+}
+
+.social-link__icon--gl {
+	background-position: -65px -5px;
+}
+
+.social-link__icon--gl:hover {
+	background-position: -5px -35px;
+}
+
+.social-link__icon--tw {
+	background-position: -5px -65px;
+}
+
+.social-link__icon--tw:hover {
+	background-position: -35px -65px;
+}
+
+.social-link__icon--mr {
+	background-position: -35px -35px;
+}
+
+.social-link__icon--mr:hover {
+	background-position: -65px -35px;
+}

@@ -1,0 +1,101 @@
+.path {
+	font-style: italic;
+	font-size: 14px;	
+	margin-top: 42px;
+}
+
+.path__link {
+	color: #ec1e79;
+    text-decoration: underline;
+}
+
+.price {
+	margin-bottom: 40px;
+}
+
+.price__title {
+	font-size: 49px;
+	font-weight: bold;
+	margin-top: 8px;
+	margin-bottom: 34px;
+}
+
+.price__item {
+	width: 250px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 55px;
+	margin-bottom: 51px;
+}
+
+.price__item:nth-child(3n+1) {
+	margin-left: 0px;
+}
+
+.price__content {	
+	display: inline-block;
+}
+
+.price__img {
+	width: 250px;
+	height: 153px;
+	background-size: cover;
+	border-radius: 3px;
+	background-color: #27273e;
+	opacity: 15%;
+	background-blend-mode: overlay;
+	position: relative;
+
+}
+
+.price__img--1 {
+	background-image: url(../../img/content/1qkyck-ul3g-james-pond.jpg);
+}
+
+.price__img--2 {
+	background-image: url(../../img/content/1yu0vlmaujo-breather.jpg);
+}
+
+.price__img--3 {
+	background-image: url(../../img/content/pdifhwbftrg-breather.jpg);
+}
+
+.price__img--4 {
+	background-image: url(../../img/content/ixhnbgtkjfw-crew.jpg);
+}
+
+.price__img--5 {
+	background-image: url(../../img/content/c3v88boorom-bench-accounting.jpg);
+}
+
+.price__img--6 {
+	background-image: url(../../img/content/x5hjlv7nzu4-breather.jpg);
+}
+
+.image__text {
+	text-align: center;
+	font-size: 24px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #5dd1f8;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.pink__text {
+	color: #ec1e79;
+}
+
+.price__cost {
+	font-weight: bold;
+	text-align: center;
+	margin-top: 22px;
+}
+
+.price__text {
+	font-size: 14px;
+	text-align: center;
+	margin-top: 7px;
+}

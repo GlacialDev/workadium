@@ -1,0 +1,148 @@
+.content-image {
+	width: 880px;
+	height: 355px;
+	background-image: url(../../img/content/about-company-foto.jpg);
+	background-size: cover;
+	background-position: center center;
+	position: relative;
+}
+
+.content__about {
+	padding-top: 143px;
+	padding-left: 64px;
+	position: absolute;
+}
+
+.content__title {
+	font-size: 49px;
+	font-weight: bold;
+	color: #ffffff;
+	text-transform: uppercase;
+}
+
+.content-text {
+	line-height: 1.7em;
+}
+
+.content-text__text {
+	margin-top: 20px;
+	color: #000000;
+}
+
+.content-text__we-offer {
+	margin-top: 10px;
+	font-weight: bold;
+}
+
+.content-text__list {
+	margin-top: 10px;
+	margin-left: 35px;
+	color: #ec1e79;
+}
+
+.content-text__item {
+	margin-top: 5px;
+	list-style: disc outside;
+}
+
+.content-text__text2 {
+	margin-top: 5px;
+}
+
+.description {
+	margin-top: 20px;
+	background: #27273e;
+	padding: 10px 30px;
+}
+
+.description__text {
+	color: #ffffff;
+}
+
+.description__pink-text {
+	color: #ec1e79;
+	font-weight: bold;
+}
+
+.partners__title {
+	font-size: 49px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-top: 55px;
+}
+
+.partners__list {
+	margin-top: 30px;
+	margin-bottom: 16px;
+}
+
+.partners__item {
+	display: inline-block;
+	margin-right: 104px;
+	margin-bottom: 40px;
+}
+
+.partners__item:nth-child(3n) {
+	margin-right: 0px;
+}
+
+.partners__link {
+	display: inline-block;
+}
+
+.partners__logo {
+	display: inline-block;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	width: 160px;
+	height: 70px;
+	filter: grayscale(100%);
+}
+
+.partners__logo--1 {
+	background-image: url(../../img/icons/logo-1.png);
+}
+
+.partners__logo--1:hover {
+	filter: grayscale(0%);
+}
+
+.partners__logo--2 {
+	background-image: url(../../img/icons/logo-2.png);
+}
+
+.partners__logo--2:hover {
+	filter: grayscale(0%);
+}
+
+.partners__logo--3 {
+	background-image: url(../../img/icons/logo-3.png);
+}
+
+.partners__logo--3:hover {
+	filter: grayscale(0%);
+}
+
+.partners__logo--4 {
+	background-image: url(../../img/icons/logo-4.png);
+}
+
+.partners__logo--4:hover {
+	filter: grayscale(0%);
+}
+
+.partners__logo--5 {
+	background-image: url(../../img/icons/logo-5.png);
+}
+
+.partners__logo--5:hover {
+	filter: grayscale(0%);
+}
+
+.partners__logo--6 {
+	background-image: url(../../img/icons/logo-6.png);
+}
+
+.partners__logo--6:hover {
+	filter: grayscale(0%);
+}
